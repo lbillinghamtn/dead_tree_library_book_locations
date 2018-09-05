@@ -2,7 +2,8 @@
 
 |title| last known location/lendee|
 |-----|---------------------------|
-|Fluent Python | TN booshelf, by arch diagram|
-|Nature of Software Development | TN booshelf, by arch diagram|
-|Pytest| @lefado??| 
-|Managers' Path| @maxTN|
+|Fluent Python | TN booshelf, by arch diagram |
+|Nature of Software Development | TN booshelf, by arch diagram |
+|Pytest| @lefado ? | 
+|Managers' Path| @maxTN ?|
+|Python Data Science Handbook | @srigden |
