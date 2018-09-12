@@ -4,6 +4,6 @@
 |-----|---------------------------|
 |Fluent Python | TN booshelf, by arch diagram |
 |Nature of Software Development | TN booshelf, by arch diagram |
-|Pytest| @lbillinghamtn | 
+|Pytest| TN booshelf, by arch diagram | 
 |Managers' Path| @maxTN ?|
 |Python Data Science Handbook | @srigden |
